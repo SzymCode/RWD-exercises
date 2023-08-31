@@ -6,7 +6,12 @@
     <td>
       1.
       <a href="https://rwd-exercises-footer.vercel.app/">
-         Footer #1
+         &nbsp;Footer #1
+      </a> 
+      <br/>
+      2.
+      <a href="https://rwd-exercises-navbar.vercel.app/">
+         &nbsp;Navbar #1
       </a>
     </td>
   </tr>
