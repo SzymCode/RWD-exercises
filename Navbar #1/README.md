@@ -1,0 +1,1 @@
+Responsive footer made with YouTube tutorial: [link](https://www.youtube.com/watch?v=oLgtucwjVII&ab_channel=CodingNepal)

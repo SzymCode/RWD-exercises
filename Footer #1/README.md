@@ -1,0 +1,1 @@
+Responsive footer made with YouTube tutorial: [link](https://www.youtube.com/watch?v=w05j5Gi0Llk&list=LL&index=3&t=38s&ab_channel=Divinector)
